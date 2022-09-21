@@ -64,7 +64,7 @@ export const config = {
       // 扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       id: "ogPlX6z6sUlv6fyrfqIHjJXZfZ2o",
       // 你想对他发送的模板消息的模板ID
-      useTemplateId: "CCJ-uce1Rter97_FvCpv2WNMUXgdq2kE-QewQkVAfNk",
+      useTemplateId: "PzmnsaHFJLFioSlrA7b7asLFGJ2iF1_h-SBVSuMAK0I",
       // 所在省份
       province: "湖南",
       // 所在城市
@@ -94,18 +94,16 @@ export const config = {
         {"keyword": "ex_day", date: "2022-09-10"},
       ]
     },
-//     {
-//       name: "老婆1",
-//       id: "",
-//       useTemplateId: "",
-//       province: "",
-//       city: "",
-//       horoscopeDate: '',
-//       horoscopeDateType: '',
-//       openUrl: "https://wangxinleo.cn",
-//       festivals: [],
-//       customizedDateList: []
-//     }
+    {
+      name: "wo",
+      id: "ogPlX68D_ywEk0QXM_CGWxl8SNSs",
+      useTemplateId: "PzmnsaHFJLFioSlrA7b7asLFGJ2iF1_h-SBVSuMAK0I",
+      province: "河北",
+      city: "邯郸",
+      horoscopeDate: '07-04',
+      horoscopeDateType: '今日',
+      openUrl: "https://baidu.com",
+    },
     
     
   ],
