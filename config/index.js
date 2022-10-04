@@ -6,12 +6,12 @@ export const config = {
   // 公众号APP_ID
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_ID: "wx731c3509cbcae884",
+  APP_ID: "wxf07089ae5614232c",
 
   // 公众号APP_SECRET
   // 建议不要填这里，请使用文档中github secret的方法进行保密配置，保护您的隐私安全。
   // 如果你非要填这里也行。脚本也能运行
-  APP_SECRET: "eefe16adca1e22530ff44ffdcfce603c",
+  APP_SECRET: "4edef2369bea3026ef3a70b62779c773",
 
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
@@ -66,7 +66,7 @@ export const config = {
       // 你想对他发送的模板消息的模板ID
       useTemplateId: "G6-Rbp0OiBUZ4An0PXyQlzV5wFEhRgEw0Z5I623cPFg",
       // 所在省份
-      province: "河北省",
+      province: "河北",
       // 所在城市
       city: "保定",
       // 新历生日, 仅用作获取星座运势, 格式必须
